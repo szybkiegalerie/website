@@ -1,10 +1,10 @@
 ---
 enable: true
 title: Najczęściej zadawane pytania (FAQ)
-description: Masz pytania na które chciałbyś szybko uzyskać odpowiedź? <br> To proste, tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania. <br><br> Nie ma odpowiedzi na Twoje? <br> Skontaktuj się znami.
+description: Masz pytania na które chciałbyś szybko uzyskać odpowiedź? <br><br> Nie ma odpowiedzi na Twoje? <br> Skontaktuj się znami.
 faqItem:
   - question: Ile kosztuje wykonanie takiej galerii?
-    answer: By wszystko było szybkie i proste, tak jak powinno to być w życiu, mamy jedną płaską stawkę za wykonanie Twojej Galerii. <br> <b>Wynosi ona 360 PLN</b>.  W tej cenie Twoja Galeria może zawierać <br> do <b>100 zdjęć w 10 kategoriach</b>.
+    answer: By wszystko było szybkie i proste, tak jak powinno to być w życiu, mamy jedną płaską stawkę za wykonanie Galerii. <br> <b>Wynosi ona 360 PLN</b>.  W tej cenie Twoja Galeria może zawierać <br> do <b>100 zdjęć w 10 kategoriach</b>.
     dataTarget: One
     show: show
 
@@ -39,6 +39,6 @@ faqItem:
     show: hide
 
   - question: Jak mogę się z Wami skontaktować?
-    answer: Możesz skontaktować się z nami poprzez <a href="/contact">formularz kontaktowy</a> na naszej stronie, <a href="mailto:szybkiegalerie@gmail.com">wysłać e-mail</a> na nasz adres, lub zadzwonić do nas bezpośrednio. Szczegóły kontaktowe znajdują się <a href="/contact">w sekcji Kontakt</a> na naszej stronie.
+    answer: Możesz skontaktować się z nami poprzez <a href="/contact">formularz kontaktowy</a> na naszej stronie, <a href="mailto:szybkiegalerie@gmail.com">wysłać e-mail</a> na nasz adres, lub <a href="tel:+48786828848">zadzwonić do nas</a> bezpośrednio. Szczegóły kontaktowe znajdują się <a href="/contact">w sekcji Kontakt</a> na naszej stronie.
     dataTarget: Eight
     show: hide

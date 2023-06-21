@@ -3,7 +3,7 @@ enable: true
 title: Niech twoja Sztuka przemówi pełnią emocji
 description: <h3>Stwórz swój świat w sieci, gdzie Twoja Sztuka będzie w centrum uwagi.</h3>
 description2: <b>Elegancki Design</b><br> Nasze galerie są zaprojektowane z myślą o estetyce i elegancji.<br><br> <b>Responsywność</b><br> Działają i wyglądają dobrze na dowolnym urządzeniu, niezależnie od rozmiaru ekranu.<br><br> <b>Szybkość</b><br> Utrzymywane na serwerach w jednej z największych na świecie sieci rozproszonych (Cloudflare), a samą galerię tworzymy w ciągu 1-2 dni, umożliwiając Ci szybki start. <br><br> <b>Dostosowanie</b><br> Tworzymy galerię zgodnie z Twoimi potrzebami, obsługując do 100 zdjęć w maksymalnie 10 kategoriach. Za dodatkową opłatą możliwe jest dodanie większej ilości zdjęć.
-buttonText: Sprawdź jak wygląda przykładowa galeria
+buttonText: Przykładowa galeria
 Title2nd: My zajmiemy się infrastrukturą, Ty zajmij się resztą.
 description2nd: Nasze galerie utrzymywane są na serwerach w jednej z największych na świecie sieci rozproszonych (Cloudflare), która składa się z wielu centrów danych rozmieszczonych na całym świecie. Dzięki temu Twoja strona będzie działać znacznie szybciej niż w przypadku rozwiązań konkurencji.
 image1: images/feature/iPhone-01.gif
