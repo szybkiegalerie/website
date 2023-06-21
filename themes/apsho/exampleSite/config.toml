@@ -1,0 +1,68 @@
+# MAIN base
+baseURL = "https://www.szybkiegalerie.pl"
+languageCode = "pl-pl"
+title = "SzybkieGalerie.pl | globalne WOW twojej twórczości"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Start"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "Co oferujemy"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "Najczęstsze pytania"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Strona główna"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Artykuły"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Polityka prywatności"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Kontakt"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = ""
+email = "szybkiegalerie@gmail.com"
+phone = "+48 786 828 848"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/SzybkieGalerie"
+instagram = "https://www.instagram.com/szybkiegalerie.pl/"
+
+
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/tWSynXx"
+googleAnalytics = ""
+
+# Footer
+footerTitle = "Dowiedz się więcej :)"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://szybkiegalerie.pl/\" target=\"_blank\">SzybkieGalerie.pl </a> {year}"
+
+#contact
+email = "szybkiegalerie@gmail.com"

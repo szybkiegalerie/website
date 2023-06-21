@@ -1,0 +1,13 @@
+---
+enable: true
+title: Spójrz jak będzie wyglądać
+description: Obraz mówi więcej niż tysiąc słów. Spójrz więc i zobacz, jak będzie się prezentować na małym ekranie.
+
+images:
+  - url: images/screenshots/iphone/iPhone-01.png
+  - url: images/screenshots/iphone/iPhone-03.png
+  - url: images/screenshots/iphone/iPhone-12.png
+  - url: images/screenshots/iphone/iPhone-05.png
+  - url: images/screenshots/iphone/iPhone-09.png
+  - url: images/screenshots/iphone/iPhone-15.png
+  - url: images/screenshots/iphone/iPhone-07.png

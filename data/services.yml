@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: To prostsze niż myślisz
+services:
+  - icon: ti-check-box
+    title: Zamów
+    description: Zamawiasz galerię, podajesz dane do faktury, jeśli potrzebujesz.
+
+  - icon: ti-upload
+    title: Wyślij nam swoje zdjęcia
+    description: Wyślij nam swoje zdjęcia (po zamówieniu otrzymasz specjalny link z instrukcją)
+
+  - icon: ti-face-smile
+    title: Ciesz się swoją Galerią
+    description: W ciągu 1-2 dni roboczych Twoja galeria będzie gotowa i dostępna w Internecie

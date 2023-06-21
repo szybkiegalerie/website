@@ -1,0 +1,44 @@
+---
+enable: true
+title: Najczęściej zadawane pytania (FAQ)
+description: Masz pytania na które chciałbyś szybko uzyskać odpowiedź? <br> To proste, tutaj znajdziesz odpowiedzi na najczęściej zadawane pytania. <br><br> Nie ma odpowiedzi na Twoje? <br> Skontaktuj się znami.
+faqItem:
+  - question: Ile kosztuje wykonanie takiej galerii?
+    answer: By wszystko było szybkie i proste, tak jak powinno to być w życiu, mamy jedną płaską stawkę za wykonanie Twojej Galerii. <br> <b>Wynosi ona 360 PLN</b>.  W tej cenie Twoja Galeria może zawierać <br> do <b>100 zdjęć w 10 kategoriach</b>.
+    dataTarget: One
+    show: show
+
+  - question: Ile zdjęć mogę umieścić w swojej galerii?
+    answer: Podstawowy pakiet pozwala na umieszczenie <b>do 100 zdjęć w maksymalnie 10 kategoriach</b>. Jeżeli potrzebujesz więcej, oferujemy dodatkowe opcje za niewielką dopłatą (60 PLN za każde rozpoczęte 50 zdjęć i 5 kategorii)
+    dataTarget: Two
+    show: hide
+
+  - question: Po jakim czasie moja galeria będzie gotowa i dostępna online?
+    answer: Twoja galeria będzie gotowa i dostępna online <b>w ciągu 1-2 dni roboczych</b> od dnia zapłaty i dostarczenia nam zdjęć (pogrópowanych w katalogach i spakowanych w archiwum .zip)
+    dataTarget: Three
+    show: hide
+
+  - question: Czy moja galeria będzie wyglądać dobrze na wszystkich urządzeniach?
+    answer: <b>Tak, nasze galerie są w pełni responsywne.</b> Oznacza to, że wyglądają i wyświetlają się dobrze na dowolnym typie urządzeń, od komputerów stacjonarnych, przez laptopy, aż po tablety i smartfony.
+    dataTarget: Four
+    show: hide
+
+  - question: Czy mogę zobaczyć przykład Waszych galerii?
+    answer: <b>Oczywiście! Zapraszamy do odwiedzenia Galerii demo</b>, pod adresem <a href="https://demo.szybkiegalerie.pl/"><b>https://demo.szybkiegalerie.pl</b></a>, aby zobaczyć, jak wyglądają nasze realizacje.
+    dataTarget: Five
+    show: hide
+
+  - question: Czy mogę dodać swoją własną domenę do mojej galerii?
+    answer: Tak, możemy zintegrować Twoją galerię z Twoją własną domeną. Możesz również bezpłatnie skorzystać z jednej z naszych subdomen.
+    dataTarget: Six
+    show: hide
+
+  - question: Co jeśli będę chciał dokonać zmian w swojej galerii po jej publikacji?
+    answer: Naszym celem jest Twoje zadowolenie, dlatego zawsze jesteśmy gotowi do wprowadzenia potrzebnych zmian, aby Twoja galeria spełniała wszystkie Twoje oczekiwania. Aktualizacja zawartości Twojej Galerii to koszt 120 PLN (zmiana zdjęć, utworzenie nowych kategorii, itp.)
+    dataTarget: Seven
+    show: hide
+
+  - question: Jak mogę się z Wami skontaktować?
+    answer: Możesz skontaktować się z nami poprzez <a href="/contact">formularz kontaktowy</a> na naszej stronie, <a href="mailto:szybkiegalerie@gmail.com">wysłać e-mail</a> na nasz adres, lub zadzwonić do nas bezpośrednio. Szczegóły kontaktowe znajdują się <a href="/contact">w sekcji Kontakt</a> na naszej stronie.
+    dataTarget: Eight
+    show: hide
