@@ -111,20 +111,34 @@ $(document).ready(function () {
   // Tooltip
   $(".footer-tooltip").tooltip();
 
-  // Zamknij menu po kliknięciu na dowolny link w menu.
-  $('.navbar-nav>li>a').on('click', function () {
-    $('#mainNav').removeClass('show');
-  });
+  // Checks if the view is mobile
+  function isMobileView() {
+    return $(window).width() < 768;
+  }
 
-  // Zamknij menu po kliknięciu poza menu.
-  $(document).click(function (event) {
-    var clickover = $(event.target);
-    var _opened = $("#mainNav").hasClass("show");
-    if (_opened === true && !clickover.hasClass("navbar-toggler")) {
-      $("#mainNav").removeClass('show');
+  // Toggles the menu
+  function toggleMenu() {
+    if (isMobileView()) {
+      $('.navbar-collapse').collapse('hide');
     }
-  });
+  }
 
+  // Attaches the event listeners
+  function attachEventListeners() {
+    // Menu links
+    $('.navbar-nav>li>a').on('click', function () {
+      toggleMenu();
+    });
+
+    // Clicking outside the menu
+    $(document).on('click', function (event) {
+      if (!$(event.target).closest('.navbar').length) {
+        toggleMenu();
+      }
+    });
+  }
+
+  attachEventListeners();
 
 });
 
