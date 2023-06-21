@@ -10,17 +10,13 @@ theme = "apsho"
     url = "#hero"
     weight = 1
 [[menu.main]]
-    name = "Co oferujemy"
+    name = "Nasze galerie"
     url = "#feature"
     weight = 2
 [[menu.main]]
     name = "Najczęstsze pytania"
     url = "#faq"
     weight = 3
-[[menu.main]]
-    name = "Blog"
-    url = "#blog"
-    weight = 4
 
 # Footer Sitemap
 [[menu.sitemap]]
