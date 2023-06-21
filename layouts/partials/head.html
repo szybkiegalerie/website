@@ -1,4 +1,10 @@
 <head>
+
+  <!-- dodanie headExtra umożliwiającego np. dodanie przekierowań -->
+  {{ if .Params.headExtra }}
+  {{ .Params.headExtra | safeHTML }}
+  {{ end }}
+
   <meta charset="utf-8" />
   <title>{{ .Title }}</title>
 
