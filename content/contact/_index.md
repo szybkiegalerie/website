@@ -1,3 +1,3 @@
 ---
-title: Masz pytania? Napisz do nas! :)
+title: Masz pytania? Napisz do nas!
 ---
