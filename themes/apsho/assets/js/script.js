@@ -113,7 +113,7 @@ $(document).ready(function () {
 
   // Checks if the view is mobile
   function isMobileView() {
-    return $(window).width() < 768;
+    return $(window).width() < 992;
   }
 
   // Toggles the menu
